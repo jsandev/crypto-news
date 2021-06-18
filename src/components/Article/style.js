@@ -12,6 +12,7 @@ export const StyledArticle = styled.a`
 
    display: grid;
    grid-template-columns: auto auto;
+   justify-content: space-between;
    grid-gap: 10px;
 
    transition: all 0.25s;
